@@ -63,7 +63,7 @@ console.log(inputValue);
           />
 
           <h1 className="text-[#22202E] text-2xl font-semibold clashDisplay md:absolute md:left-1/2 md:transform md:-translate-x-1/2">
-            <Link href="/">Avion</Link>
+            <Link href="/">🎀AAMRA STORE 🎀</Link>
           </h1>
 
           <div className="flex text-xl gap-[10px] items-center">

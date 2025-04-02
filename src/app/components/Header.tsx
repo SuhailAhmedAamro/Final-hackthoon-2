@@ -124,7 +124,7 @@ console.log(inputValue);
                 <SheetContent>
                   <SheetHeader>
                     <SheetTitle className="text-4xl font-bold clashDisplay mb-4 text-center">
-                      <Link href="/">Avion</Link>
+                      <Link href="/">Aamro Store</Link>
                     </SheetTitle>
                     <SheetDescription>
                       <nav className="flex flex-col text-sm gap-y-3 border-[0.5px] items-center p-4 rounded-md">
